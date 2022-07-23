@@ -48,25 +48,5 @@
 		"time": "12:00",
 		"petsAllowed": true,
 		"organizer": "Kat Laydee"
-	  },
-	  {
-		"id": 234623452,
-		"title": "Cat Adoption Date",
-		"description": "Find your new feline friend at this event.",
-		"location": "Meow Town",
-		"date": "January 28, 2022",
-		"time": "12:00",
-		"petsAllowed": true,
-		"organizer": "Kat Laydee"
-	  },
-	  {
-		"id": 234623452,
-		"title": "Cat Adoption Date",
-		"description": "Find your new feline friend at this event.",
-		"location": "Meow Town",
-		"date": "January 28, 2022",
-		"time": "12:00",
-		"petsAllowed": true,
-		"organizer": "Kat Laydee"
 	  }
 	]
